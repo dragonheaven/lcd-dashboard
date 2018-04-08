@@ -1,0 +1,20 @@
+paypal_ipn_status = RECEIVER EMAIL MISMATCH
+paypal_ipn_date = 2018-01-15 13:03:40 PST
+txn_type = adjustment
+payment_date = 13:03:27 Jan 15, 2018 PST
+payment_gross = -150.00
+mc_currency = USD
+verify_sign = A-u8CsX00xa8R8nvU29IX0XtmnNkAF8UI2gq6db94w.F1ctiJCjgUZGl
+payer_status = verified
+payer_email = kdabrowski@lucyd.co
+txn_id = 4N696012CD670525C
+parent_txn_id = 6V568016N06737201
+payer_id = LJWETCYHCHWF4
+reason_code = chargeback_settlement
+payment_status = Completed
+payment_fee = -20.00
+mc_gross = -150.00
+charset = windows-1252
+notify_version = 3.8
+ipn_track_id = 3b7c478fabc5c
+
